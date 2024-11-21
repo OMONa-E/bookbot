@@ -42,6 +42,8 @@ The 'z' character was found 22 times
 3. Run the script:
    ```bash
    python3 script_name.py
+   or
+   python script_name.py
    ```
    Replace `script_name.py` with the name of your Python script.
 
