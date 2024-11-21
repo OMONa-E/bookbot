@@ -18,11 +18,17 @@ The script performs the following steps:
 For the file `books/frankenstein.txt`, the script generates a report similar to the following:
 
 --- Begin report of books/frankenstein.txt ---
+
 84321 words found in the document
+
 The 'a' character was found 7211 times
+
 The 'b' character was found 4312 times
+
 ....
+
 The 'z' character was found 22 times
+
 --- End report ---
 
 
